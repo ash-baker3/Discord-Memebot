@@ -1,1 +1,1 @@
-# Discord-Memebot
+# Discord Memebot Implemented using Python.
